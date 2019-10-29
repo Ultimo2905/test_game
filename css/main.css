@@ -1,3 +1,11 @@
 .full-project{
 	display: flex;
 }
+.userHeScorRow{
+	display: flex;
+    justify-content: space-around
+}
+.tableUser{
+	max-width: 400px;
+	margin: auto;
+}
